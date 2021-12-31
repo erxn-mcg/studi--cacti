@@ -1,6 +1,6 @@
 ---
-title: "Let's, Talk About You"
-description: "this is meta-description"
-layout: "contact"
-draft: false
+title: Continue to grow with Studi Cacti
+description: Want to collaborate? Or showcase your product? Send us a message!
+layout: contact
+
 ---
