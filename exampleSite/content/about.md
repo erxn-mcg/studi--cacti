@@ -1,43 +1,36 @@
 ---
-title: "About The Author"
-description: "this is meta-description"
-image: "images/author.png"
-layout: "about"
-draft: false
-
-# education
+title: About The Author
+description: Meet the people behind studi cacti
+image: images/author.png
+layout: about
 education:
   enable: true
-  title: "Formal Education"
+  title: Things I Like To Do
   education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-
-# experience
+  - name: Tennis
+    content: I'm not very good, but it is so much fun (plus the outfits are great!)
+  - name: Maths
+    content: My favourite thing to do in my spare time - right now I have an obsession
+      with prime numbers!
+  - name: Reading
+    content: What is life without a good book? Currently reading Numb and Number
+  - name: Programming
+    content: I like to make python models of mathematical concepts to help me understand
+      them better :)
 experience:
   enable: true
-  title: "Work Experience"
+  title: Work Experience
   experience_list:
-  - "Best Writer Award"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - Best Writer Award
+  - Best New Newel
+  - Best Book
+  - Best Article
+  - Best New Newel
+  - Best New Newel
+  - Best Book
+  - Best Article
+  - Best New Newel
+  - Best Book
 
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
-
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+Hi, I am Erin, the creator of Studi Cacti! Through running a studygram on Instagram for a while, as well as through being a student, I realised that there is lots of emphasis placed upon wellness, but often very little guidance on how to achieve that. At Studi Cacti, we value personal growth and show you how you can accomplish your goals through manageable steps. Whether you are looking for academic achievement, working through writer's block, or searching for your next entrepreneurial idea, Studi Cacti is here to help you be your best self!
