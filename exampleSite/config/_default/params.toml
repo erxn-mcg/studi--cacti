@@ -39,9 +39,9 @@ expire_days = 2
 enable = false
 preloader = ""
 [subscription]
-enable = false
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+enable = true
+mailchimp_form_action = "http://eepurl.com/hRgrJn"
+mailchimp_form_name = "http://eepurl.com/hRgrJn"
 [widgets]
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
