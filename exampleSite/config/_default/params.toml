@@ -33,7 +33,7 @@ title_small = "Study. Productivity. Growth."
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-enable = false
+enable = true
 expire_days = 2
 [preloader]
 enable = false
