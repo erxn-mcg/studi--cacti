@@ -19,18 +19,9 @@ education:
       them better :)
 experience:
   enable: true
-  title: Work Experience
+  title: Studi Cacti Praise
   experience_list:
-  - Best Writer Award
-  - Best New Newel
-  - Best Book
-  - Best Article
-  - Best New Newel
-  - Best New Newel
-  - Best Book
-  - Best Article
-  - Best New Newel
-  - Best Book
+  - Nothing yet...
 
 ---
 Hi, I am Erin, the creator of Studi Cacti! Through running a studygram on Instagram for a while, as well as through being a student, I realised that there is lots of emphasis placed upon wellness, but often very little guidance on how to achieve that. At Studi Cacti, we value personal growth and show you how you can accomplish your goals through manageable steps. Whether you are looking for academic achievement, working through writer's block, or searching for your next entrepreneurial idea, Studi Cacti is here to help you be your best self!
