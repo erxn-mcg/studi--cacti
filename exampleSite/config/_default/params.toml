@@ -46,7 +46,7 @@ mailchimp_form_name = "http://eepurl.com/hRgrJn"
 sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "facebook.com/studicacti"
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
