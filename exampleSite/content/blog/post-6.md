@@ -1,13 +1,17 @@
 ---
-title: "Why you need to learn PHP"
-description: "meta description"
-image: "images/post/post-6.png"
-date: 2021-01-24T18:19:25+06:00
-categories: ["programming"]
-type: "featured" # available types: [featured/regular]
-draft: false
----
+title: A Morning Routine For Productivity
+description: Wake up with a comforting morning routine to boost productivity throughout
+  the day.
+image: images/post/post-6.png
+date: 2021-01-24T18:19:25.000+06:00
+categories:
+- wellbeing
+- produtivity
+- routine
+- wellness
+type: featured
 
+---
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 
