@@ -1,13 +1,15 @@
 ---
-title: "Artificial Intelligence and Robotics In A Nutshell"
-description: "meta description"
-image: "images/post/post-1.png"
-date: 2021-01-24T18:19:25+06:00
-categories: ["programming"]
-type: "regular" # available types: [featured/regular]
-draft: false
----
+title: This Simple Trick Can Help You Study More Effectively!
+description: Want to make the most out of your study sessions? BY using this method,
+  you can maximise concept retention and recall.
+image: images/post/post-1.png
+date: 2021-01-24T18:19:25.000+06:00
+categories:
+- study
+- learning
+type: regular
 
+---
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 
