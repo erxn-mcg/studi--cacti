@@ -2,7 +2,7 @@
 title: The Benefits of Eating Less Meat
 description: As Veganuary takes the spotlight once again, why should be be doing it?
 image: images/post/post-3.png
-date: 2021-01-24T18:19:25.000+06:00
+date: 222-01-01T18:19:25.000+06:00
 categories:
 - food
 - wellness
