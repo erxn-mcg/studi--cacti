@@ -58,7 +58,7 @@ link = "https://instagram.com/studicacti"
 title = "instagram"
 [[social]]
 icon = "fab fa-github"
-link = "#"
+link = "hats://github.com/erxn-mcg"
 title = "github"
 [[social]]
 icon = "fab fa-linkedin"
