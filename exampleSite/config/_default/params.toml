@@ -27,7 +27,7 @@ button_label = "Learn More"
 button_link = "about/"
 content = "Learn to study effectively. Learn to make the most of your skills. Learn to build relationships. Learn to live with studi **cacti**"
 enable = true
-image = "images/banner.png"
+image = "images/cacfav.png"
 title_large = "Studi **Cacti**"
 title_small = "Study. Productivity. Growth."
 [cookies]
